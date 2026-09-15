@@ -8,22 +8,20 @@ Security & Data Engineer — detection engineering, identity & access management
 - 📫 Reach me: yusraalvarez@gmail.com · [LinkedIn](https://www.linkedin.com/in/yusra-alvarez/)
 
 ---
+Featured Projects
 
-## Featured Projects
-
-### 🛡️ [NetSecMonitor](https://github.com/yusraalvarez/NetSecMonitor)
+🛡️ [NetSecMonitor](https://github.com/yusraalvarez/NetSecMonitor)
 Network security monitoring tool for real-time threat detection and traffic analysis. Statistical anomaly detection, automated port scanning with service fingerprinting, and a live Flask dashboard — backed by a tested SQLite schema for time-series security data.
 
 `Python` `Flask` `SQLite` `Pandas` `Plotly`
 
-### 🔎 [LogLens](https://github.com/yusraalvarez/LogLens)
+🔎 [LogLens](https://github.com/yusraalvarez/LogLens)
 Log analysis tool that ingests Apache access logs, application event logs, and auth logs, then runs automated checks for brute-force attempts, vulnerability scans, and error spikes.
 
 `Python` `Flask` `SQLite` `Regex-based log parsing`
 
 ---
-
-## Core Skills
+Core Skills
 
 **Security & Networking:** Detection engineering, osquery, TCP/IP, DNS analysis, network traffic analysis, Wireshark, log analysis, SIEM fundamentals, incident response, endpoint hardening
 
@@ -34,5 +32,4 @@ Log analysis tool that ingests Apache access logs, application event logs, and a
 **Systems & Platforms:** macOS, Windows, Linux, MDM, Microsoft Intune, Chef, VDI/PCoIP
 
 ---
-
 *Both featured projects have automated test suites and CI pipelines — check the Actions tab on each repo.*
