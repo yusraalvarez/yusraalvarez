@@ -1,6 +1,6 @@
 # Hi, I'm Yusra 👋
 
-Security & Security Engineer — detection engineering, identity & access management, and the data pipelines that power them. Nearly 4 years building production infrastructure at Meta. Based in New York — open to NYC hybrid/onsite and US remote.
+Systems & Security Engineer — detection engineering, identity & access management, and the data pipelines that power them. Nearly 4 years building production infrastructure at Meta. Based in New York — open to NYC hybrid/onsite and US remote.
 
 - 🔍 Focused on: detection engineering, osquery, SIEM fundamentals, IAM/SSO, Python/SQL data pipelines
 - 🎓 Working toward: CompTIA Security+ 
